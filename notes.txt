@@ -1,2 +1,3 @@
 I am learning git and github
 Git is tracking my files
+Each commit saves a checkpoint 
